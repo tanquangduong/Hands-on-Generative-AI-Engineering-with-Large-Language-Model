@@ -12,7 +12,7 @@ This hands-on course covers essential topics such as implementing Transformers, 
 By the end of this course, you will have the practical skills and theoretical knowledge needed to engineer and deploy your own LLM-based applications.
 
 ## Course Introduction Video
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_699r2LVzFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Intro_video](https://www.youtube.com/watch?v=_699r2LVzFo)
 
 
 ## Table of content
