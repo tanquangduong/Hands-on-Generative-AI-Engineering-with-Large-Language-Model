@@ -64,13 +64,13 @@ By the end of this course, you will have the practical skills and theoretical kn
         -	Sharing Your Model
 - Part 5: Components to Build LLM-Based Web Applications
     -	Backend Components
-    -	LLM Orchestration Frameworks: LangChain, LlamaIndex
-    -	Open-Source vs. Proprietary LLMs
-    -	Vector Embedding
-    -	Vector Database
-    -	Prompt Engineering
+        -	LLM Orchestration Frameworks: LangChain, LlamaIndex
+        -	Open-Source vs. Proprietary LLMs
+        -	Vector Embedding
+        -	Vector Database
+        -	Prompt Engineering
     -	Frontend Components
-    -	Python-Based Frontend Frameworks: Streamlit, Gradio
+        -	Python-Based Frontend Frameworks: Streamlit, Gradio
 - Part 6: Building LLM-Based Web Applications
     -	Task-Specific AI Assistants
         -	Culinary AI Assistant
@@ -90,9 +90,9 @@ By the end of this course, you will have the practical skills and theoretical kn
     -	Creating the Frontend and Backend as Two Separate Services
     -	Communicating Between Frontend and Backend Using a REST API
     -	Serving the Application with Docker
-    -	Install, Run, and Enable Communication Between Frontend and  Backend in a Single Docker Container
+        -	Install, Run, and Enable Communication Between Frontend and  Backend in a Single Docker Container
     -	Use Case
-    -	An LLM-Based Song Recommendation App
+        -	An LLM-Based Song Recommendation App
 - Conclusions and Next Steps
     -	What We Have Learned
     -	Next Steps
